@@ -1,0 +1,170 @@
+ANS 1 :
+
+	Arbitration is a procedure in which a dispute is submitted, by agreement of the parties, 
+	to one or more arbitrators who make a binding decision on the dispute. In choosing arbitration, 
+	the parties opt for a private dispute resolution procedure instead of going to court.
+	Its principal characteristics are:
+	
+	- Arbitration is consensual
+	Arbitration can only take place if both parties have agreed to it. In the case of future 
+	disputes arising under a contract, the parties insert an arbitration clause in the relevant 
+	contract. An existing dispute can be referred to arbitration by means of a submission agreement 
+	between the parties.
+	
+	- The parties choose the arbitrator(s)
+	The WIPO Rules specifically protect the confidentiality of the existence of the arbitration, 
+	any disclosures made during that procedure, and the award. In certain circumstances, 
+	the WIPO Rules allow a party to restrict access to trade secrets or other confidential 
+	information that is submitted to the arbitral tribunal or to a confidentiality advisor 
+	to the tribunal.
+	
+	- The decision of the arbitral tribunal is final and easy to enforce
+	Under the WIPO Rules, the parties agree to carry out the decision of the arbitral tribunal
+	without delay. International awards are enforced by national courts under the New York Convention, 
+	which permits them to be set aside only in very limited circumstances.
+	
+ANS 2 :
+	
+		Advantages of arbitration over traditional litigation is followed:
+		1. Litigation involves multiple court proceedings under different laws of different countries, 
+		   and the results are always conflicting whereas arbitration procedure involves the decision on 
+		   merits of the case and only the law that is applied by the common consensus of both the parties.
+		   The arbitrating body is not bound to follow a specific procedure and they can formulate their 
+		   own procedures. 
+		2. Most of the honourable judges in majority of the countries of the world are not young and such
+		   positions are only given to the people having relevant expertise in their field. Therefore the
+		   judges in litigation might not have the required expertise in the field. Whereas, in 
+		   arbitration, the parties can choose their arbitrator and hence only such a person is chosen 
+		   as arbitrator who satisfies both the parties equally.
+		3. Considering the factor of urgency, where on one hand the litigation procedure goes on with 
+		   the classic procedure of the courts which they are bound to follow in case of any of the 
+		   disputes are mostly lengthy and tedious and run into generations. The result of such a delay 
+		   in justice would not yield proper justice to the aggrieved but in the case of arbitration, 
+		   the arbitrators as well as the parties are at the option to shorten the procedure or 
+		   elongate it for proper discussion as how and when they like. Arbitration would also be 
+		   available with the option of interim relief to the aggrieved parties, which might not be 
+		   binding on the parties. They can at any time go to the court to seek any such remedy.
+		4. The litigation procedure is never final unless the apex court of the country passes such orders 
+		   either in favour or against. In the case of arbitration, there is a limited or no appeal option 
+		   which can be waived off at the option of parties. 
+		5. The litigation proceedings of any case, except otherwise stated by law, are to take place 
+		   publically, which also involves the narration of facts as well as the property description 
+		   over which the dispute is required to be settled.This would make the secrets public and would
+		   result in huge loss of Intellectual Property to the aggrieved. Therefore, to ensure the 
+		   confidentiality and trade secrets of the parties, and also to secure the reputation of them, 
+		   the arbitration can be done in closed curtains and the proceedings as well as the awards can 
+		   be made confidentially.
+		   
+
+ANS 3 :
+		
+		The arbitration award
+			- is the decision made by arbitrators, which
+			- solves claims of the parties,
+			- provisionally or finally. 
+		It may determine
+			-legal or
+			- factual disputed questions or
+			- rights and obligations of the parties.
+			
+		The final award in merit is binding and has res judicata effect among the parties,which means 
+		that the already decided mater cannot be arbitrated again. 
+		
+		 Arbitral awards may be divided into:
+			- the award on merit,
+			- the partial award, sometimes embellished with the interim award,
+			- the default award,
+			- the award on agreed terms,
+			- the additional award. 
+			
+		Awards issued in most of the major arbitration centres of the world are enforceable in India. 
+		Part II of the Arbitration and Conciliation Act, which governs enforcement of foreign awards in
+		India, applies only to awards issued in jurisdictions notified by the Indian government as 
+		jurisdictions in which the New York Convention applies. The government has notified all key 
+		centres of international arbitration, including France, the United Kingdom, China, Singapore, 
+		Sweden, Switzerland and the United States.
+		
+ANS 4:
+		
+		Following are the responsibilities of architect to the client :
+		
+		1. The Architect may introduce to a prospective Client the Professional services he is able to 
+		   perform provided it is limited to Presentation of examples of his professional experience and 
+		   does not entail the offering of free preliminary sketches or other services without the benefit 
+		   of an agreement with the Client for legitimate compensation.
+		
+		2. The Architect shall acquaint or ascertain from the Client at the very inception of their 
+		   business relationship, the exact nature and scope of his services and the corresponding 
+		   professional charges.
+		 
+		3. The Architect shall advise a Client against proceeding with any project whose practicability may be 
+		   questionable due to financial, legal or arresting or exigent conditions, even if such advice may 
+		   mean the loss of a prospective commission to the Architect.
+		
+		4. The Architect shall consider the needs and stipulation of his Client and the effects of his 
+		   work upon the life and well-being of the public and the community as a whole, and to endeavor
+		   to meet the aesthetic and functional requirements of the project commensurate with the 
+		   Client's appropriation.
+		
+		5. The Architect shall include in his agreement with the Client a clause providing for 
+		   arbitration as a method for settlement of disputes.
+		   
+ANS 5:
+
+		Architects have a duty to exercise their personal skill and judgementment in the performance of their
+		work, and they may not delegate this duty without express authority to do so. They may, however, 
+		delegate responsibility to subordinates while performing their duties as agents.
+		A supervising architect does not have implied authority to perform work that has been assigned to a contractor or to employ or discharge workers. 
+		The supervising architect does, however, have authority to make decisions concerning proper 
+		workmanship, fitness of materials, and the manner of work.
+
+
+
+ANS 6 :
+		Professional Duties of Architect:
+		
+		1.1 Service: "Service", as defined under Section 2 (1) (o) of the Consumer Protection Act, 1986,
+			rendering professional service by an architect for "consideration" falls within the 
+			ambit of "service". The relationship between the Client and the Architect is that of recipient 
+			and provider of service. The professional services rendered by the architect mean the services
+			rendered pursuant to the Conditions of Engagement and Scale of Charges, entered into between the
+				Client and the Architect.
+
+		1.2 Competence: An architect, being a professional, shall possess the required knowledge and 
+		    skill i.e. proficiency and competence for discharging his professional duties and functions. 
+			These are governed under the provisions of the Architects Act, 1972 and the Architects 
+			(Professional Conduct) Regulations, 1989, framed thereunder.
+
+		1.3 Duty of care: It means duty to exercise utmost skill and care. When an architect offers 
+			professional advice/architectural services, implicitly undertakes that he is possessed of the 
+			knowledge and skill for the purpose. Thus, an architect shall bring to his task a reasonable 
+			degree of knowledge and skill and must exercise a reasonable degree of care.
+
+		1.4 Duties: The duties that are required to be performed by an architect for various types of 
+			projects have been prescribed by the Council of Architecture under the Conditions of 
+			Engagement and Scale of Charges for respective areas in the field of architecture. 
+			The documents stipulate the parameters within which the Architect is required to function. 
+			However, the Conditions of Engagement and matters related therewith for a given project 
+			shall be carried out in accordance with the terms and Conditions of Agreement executed 
+			between the Client and the Architect.
+
+		An architect may be liable to their client for:
+			-Breach of contract.
+			-Through the tort of negligence.
+			-Under statute.
+			
+		-A minimum standard of reasonable skill and care is to be exercised in the discharge of 
+		 professional duties carried out under the contract.
+		-A higher duty to achieve particular results, comparable with the duty generally placed upon a 
+		 builder, may be contracted for.
+		-Duties under the law of tort to third parties may also be owed to a client concurrent with a 
+		 contractual duty.
+		-A more specialist duty may be owed in tort when giving advice whether to a client or to a third 
+		 party.
+		-Additional duties may be imposed by statutes.
+		
+
+ANS 7 :
+	1. Consumer	
+		
+	
